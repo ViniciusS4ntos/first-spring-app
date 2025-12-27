@@ -16,7 +16,6 @@ O projeto segue uma organização básica com separação de responsabilidades:
 - `controller`: Responsável por receber as requisições HTTP.
 - `service`: Contém a lógica da aplicação.
 - `domain`: Classes de domínio da aplicação.
-- `application`: Classe principal responsável por iniciar o Spring Boot.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Java 21**
